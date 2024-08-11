@@ -1,2 +1,2 @@
-# retrieval-practice
+# Retrieval practice
 For educational purposes
